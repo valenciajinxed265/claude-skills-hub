@@ -37,26 +37,36 @@ Each skill is a `.md` file you place into your `.claude/commands/` folder. Then 
 
 ## How to Use
 
-**1.** Click the **Star** button to support the project, then click **Fork** to get your own copy.
+### Step 1 — Star & Fork
 
-**2.** Open any skill file from the categories below, copy its contents, and create a new `.md` file in your Claude commands folder:
+Click the **Star** button at the top of this page, then click **Fork**.
+
+### Step 2 — Pick a skill
+
+Browse the categories below and click on any skill you want. For example: [`/frontend-design`](skills/popular/frontend-design.md)
+
+### Step 3 — Download the file
+
+Click the **Raw** button on the skill page, then **Save As** the file to one of these locations:
+
+| Scope | Save to |
+|-------|---------|
+| Use in **all** projects | `~/.claude/commands/frontend-design.md` |
+| Use in **one** project | `your-project/.claude/commands/frontend-design.md` |
+
+### Step 4 — Use it
+
+Open Claude Code and type the skill name with a `/`:
 
 ```
-~/.claude/commands/skill-name.md        # Global (works in all projects)
-your-project/.claude/commands/skill-name.md  # Project-level (works in that project only)
+/frontend-design
 ```
 
-**3.** Use it in Claude Code by typing `/skill-name`:
+That's it. The skill is now active.
 
-```
-> /frontend-design
-> /security-audit
-> /unit-test
-```
+---
 
-**4.** Sync your fork regularly to get new skills as they're added.
-
-> **License:** [CC BY 4.0](LICENSE) — You must credit this repo and [@ShadmanSakibRahman](https://github.com/ShadmanSakibRahman) when using or sharing these skills. Every skill file contains an attribution comment — please keep it intact.
+> **Important:** Every skill file contains an attribution comment linking back to this repo. Please do not remove it. This project is licensed under [CC BY 4.0](LICENSE) — credit to [@ShadmanSakibRahman](https://github.com/ShadmanSakibRahman) is required when using or sharing these skills.
 
 ---
 
