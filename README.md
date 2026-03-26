@@ -37,36 +37,30 @@ Each skill is a `.md` file you place into your `.claude/commands/` folder. Then 
 
 ## How to Use
 
-### Step 1 — Star & Fork
-
-Click the **Star** button at the top of this page, then click **Fork**.
-
-### Step 2 — Pick a skill
+### Step 1 — Pick a skill
 
 Browse the categories below and click on any skill you want. For example: [`/frontend-design`](skills/popular/frontend-design.md)
 
-### Step 3 — Download the file
+### Step 2 — Download the file
 
-Click the **Raw** button on the skill page, then **Save As** the file to one of these locations:
+Click **Raw** on the skill page, then save the file to:
 
-| Scope | Save to |
-|-------|---------|
-| Use in **all** projects | `~/.claude/commands/frontend-design.md` |
-| Use in **one** project | `your-project/.claude/commands/frontend-design.md` |
+| Scope | Path |
+|-------|------|
+| All projects | `~/.claude/commands/frontend-design.md` |
+| Single project | `your-project/.claude/commands/frontend-design.md` |
 
-### Step 4 — Use it
+### Step 3 — Use it
 
-Open Claude Code and type the skill name with a `/`:
+Open Claude Code and type:
 
 ```
 /frontend-design
 ```
 
-That's it. The skill is now active.
+Done.
 
----
-
-> **Important:** Every skill file contains an attribution comment linking back to this repo. Please do not remove it. This project is licensed under [CC BY 4.0](LICENSE) — credit to [@ShadmanSakibRahman](https://github.com/ShadmanSakibRahman) is required when using or sharing these skills.
+> This project is licensed under [CC BY 4.0](LICENSE). Please keep the attribution comment inside each skill file intact.
 
 ---
 
