@@ -39,11 +39,24 @@ Each skill is a `.md` file you place into your `.claude/commands/` folder. Then 
 
 **1.** Click the **Star** button to support the project, then click **Fork** to get your own copy.
 
-**2.** Browse the skills below and use them in Claude Code by typing `/skill-name`.
+**2.** Open any skill file from the categories below, copy its contents, and create a new `.md` file in your Claude commands folder:
 
-**3.** To stay updated with new skills, sync your fork regularly.
+```
+~/.claude/commands/skill-name.md        # Global (works in all projects)
+your-project/.claude/commands/skill-name.md  # Project-level (works in that project only)
+```
 
-> **License:** [CC BY 4.0](LICENSE) — You must give credit to this repo and [@ShadmanSakibRahman](https://github.com/ShadmanSakibRahman) when using or sharing these skills.
+**3.** Use it in Claude Code by typing `/skill-name`:
+
+```
+> /frontend-design
+> /security-audit
+> /unit-test
+```
+
+**4.** Sync your fork regularly to get new skills as they're added.
+
+> **License:** [CC BY 4.0](LICENSE) — You must credit this repo and [@ShadmanSakibRahman](https://github.com/ShadmanSakibRahman) when using or sharing these skills. Every skill file contains an attribution comment — please keep it intact.
 
 ---
 
