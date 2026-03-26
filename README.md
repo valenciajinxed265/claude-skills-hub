@@ -92,6 +92,9 @@ The most widely used and community-favorite skills. Start here.
 | [`/xlsx`](skills/popular/xlsx.md) | Excel with formulas, charts, pivot tables | Automate spreadsheet tasks |
 | [`/pptx`](skills/popular/pptx.md) | PowerPoint with professional layouts | Create presentations from code |
 | [`/webapp-testing`](skills/popular/webapp-testing.md) | Playwright-based web app testing | Test any web application |
+| [`security-guidance`](skills/popular/security-guidance/) | Official Anthropic security hook plugin | Auto-warn about XSS, injection, eval, pickle |
+
+> **Note:** `security-guidance` is a **plugin** (not a slash command). It uses hooks to automatically warn you about security vulnerabilities when editing files. See its [README](skills/popular/security-guidance/) for installation.
 
 ---
 
